@@ -14,6 +14,4 @@ Welcome to my GitHub profile! I'm a passionate and driven **Frontend Developer**
 - 🌍 I’m a **nature lover** and enjoy **adventures** with my friends and family, whether it's hiking, camping, or exploring new places.
 
 ## Let's Connect! 
-Feel free to reach out to me here on GitHub. I'm always excited to collaborate on innovative and meaningful web development projects. If you're passionate about creating exceptional websites, let's work together!
-
-📫 **How to reach me:** Just send me a message here on GitHub, and I'll get back to you as soon as I can!
+Feel free to reach out to me here on GitHub or on my other platforms. I’m always excited to collaborate on innovative and meaningful web development projects. If you're passionate about creating exceptional websites, let's work together!
